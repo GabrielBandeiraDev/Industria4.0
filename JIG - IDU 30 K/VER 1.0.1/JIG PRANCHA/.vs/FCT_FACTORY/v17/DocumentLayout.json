@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\ranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\ranges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|c:\\users\\delta06\\desktop\\gabriel\\jig - idu 30 k (1)\\jig - idu 30 k\\ver 1.0.1\\jig prancha\\fct_factory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\datatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\datatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\formpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\formpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\fct_factory\\datatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2FB149-AAFC-404A-A50C-FA73C7CF1863}|FCT_FACTORY\\FCT_FACTORY.csproj|solutionrelative:fct_factory\\datatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Config.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Config.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\Config.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Desktop\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Config.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Config.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:31:32.009Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Form1.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Form1.cs",
+              "RelativeToolTip": "FCT_FACTORY\\Form1.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:51:02.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Form1.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Form1.cs [Design]",
+              "RelativeToolTip": "FCT_FACTORY\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:51:00.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Setup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Setup.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\Setup.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Setup.cs [Design]",
+              "RelativeToolTip": "FCT_FACTORY\\Setup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:47:00.493Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ranges.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\ranges.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\ranges.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\ranges.cs [Design]",
+              "RelativeToolTip": "FCT_FACTORY\\ranges.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:31:41.501Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Setup.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\Setup.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Setup.cs",
+              "RelativeToolTip": "FCT_FACTORY\\Setup.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAgwFwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:57:58.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Config.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\Config.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Config.cs",
+              "RelativeToolTip": "FCT_FACTORY\\Config.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowHAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:13:22.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ALERT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\ALERT.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\ALERT.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Downloads\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\ALERT.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\ALERT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:31:30.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dataTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\dataTest.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\dataTest.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Downloads\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\dataTest.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\dataTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:31:33.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\FormPass.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\FormPass.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Downloads\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\FormPass.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\FormPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:31:37.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Form2.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\Form2.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Downloads\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:31:36.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dataTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\dataTest.cs",
+              "RelativeDocumentMoniker": "FCT_FACTORY\\dataTest.cs",
+              "ToolTip": "C:\\Users\\DELTA06\\Desktop\\Gabriel\\JIG - IDU 30 K (1)\\JIG - IDU 30 K\\VER 1.0.1\\JIG PRANCHA\\FCT_FACTORY\\dataTest.cs",
+              "RelativeToolTip": "FCT_FACTORY\\dataTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:18:17.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
